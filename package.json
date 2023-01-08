@@ -1,8 +1,8 @@
 {
   "name": "@bloomweb/bloomwebattributes",
   "version": "1.0.0",
-  "description": "Developer starter template for Finsweet projects.",
-  "homepage": "https://github.com/bloomweb/bloomwebattributes#readme",
+  "description": "Bloomweb Attributes",
+  "homepage": "https://github.com/bloomcodeofficial/bloomwebattributes#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bloomweb/bloomwebattributes.git"
+    "url": "git+https://github.com/bloomcodeofficial/bloomwebattributes.git"
   },
   "bugs": {
-    "url": "https://github.com/bloomweb/bloomwebattributes/issues"
+    "url": "https://github.com/bloomcodeofficial/bloomwebattributes/issues"
   },
   "type": "module",
   "main": "src/index.ts",
